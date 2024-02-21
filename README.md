@@ -10,6 +10,7 @@
 [![npm](https://img.shields.io/npm/dm/@quobix/vacuum?style=flat-square&label=npm%20downloads)](https://www.npmjs.com/package/@quobix/vacuum)
 [![Docker Pulls](https://img.shields.io/docker/pulls/dshanley/vacuum?style=flat-square)](https://hub.docker.com/r/dshanley/vacuum)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=sandrociceros-claro_vacuum)](https://sonarcloud.io/summary/new_code?id=sandrociceros-claro_vacuum)
 
 An **ultra-super-fast**, lightweight OpenAPI linter and quality checking tool, written in golang and inspired by [Spectral](https://github.com/stoplightio/spectral).
 
